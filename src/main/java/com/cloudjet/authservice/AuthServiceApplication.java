@@ -1,4 +1,4 @@
-package auth_service;
+package com.cloudjet.authservice;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
